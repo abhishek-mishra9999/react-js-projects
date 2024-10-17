@@ -1,2 +1,2 @@
 # react-js-projects
-todo list and calculator
+todo list react app
